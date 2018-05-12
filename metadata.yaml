@@ -1,0 +1,33 @@
+_repo: A-Season-at-Harrogate_35193
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hofland, Mrs. (Barbara)
+    aliases:
+    - Hoffland, B. (Barbara)
+    - Hoole, Barbara
+    - Hofland, Barbara Wreaks Hoole
+    - Hoole, B. (Barbara)
+    birthdate: 1770
+    deathdate: 1844
+    gutenberg_agent_id: '25003'
+    url: http://www.gutenberg.org/2009/agents/25003
+description: ''
+gutenberg_issued: '2011-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35193'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Harrogate (England) -- Poetry'
+title: "A Season at Harrogate\r\nIn a Series of Poetical Epistles, from Benjamin Blunderhead,\
+  \ Esquire, to His Mother, in Derbyshire. With Useful and Copious Notes, Descriptive\
+  \ of the Objects Most Worthy of Attention in the Vicinity of Harrogate"
+url: http://www.gutenberg.org/ebooks/35193
